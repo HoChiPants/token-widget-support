@@ -1,0 +1,23 @@
+{
+  "baseUrl": "https://hochipants.github.io/token-widget-support/",
+  "previews": [
+    {
+      "app": "Token Widget",
+      "slug": "tokenwidget",
+      "tagline": "A little more headroom.",
+      "kind": "screenshots",
+      "video": "assets/previews/tokenwidget-v1.mp4",
+      "poster": "assets/previews/tokenwidget-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 110315,
+      "posterBytes": 81011,
+      "pages": [
+        "index.html"
+      ]
+    }
+  ]
+}
